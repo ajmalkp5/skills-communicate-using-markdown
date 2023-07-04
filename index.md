@@ -8,3 +8,6 @@
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+- [ ] Watch Movie
+- [ ] Rate Movie
+- [ ] Write Review
